@@ -3,7 +3,7 @@
 本项目基于 LangGraph+Streamlit+FastAPI构建，设计了一个结合快速响应（Reactive）与深度分析（Deliberative）的智能投研顾问系统。该系统能够根据用户问题的复杂程度，自动选择不同的处理路径，实现兼顾响应速度与分析能力的智能决策。项目同时通过FastAPI将Agent封装为标准HTTP接口，使其具备服务化能力。
 
 ## 一、项目架构
-
+```
 Agent-Project/
 ├── src/
 │ ├── hybrid_wealth_advisor_langgraph.py # 核心工作流
@@ -14,6 +14,7 @@ Agent-Project/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## 二、运行方式
 
