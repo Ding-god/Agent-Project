@@ -4,14 +4,16 @@
 
 ## 一、项目架构
 
-├── src/hybrid_wealth_advisor_langgraph.py # 核心工作流
-├── src/streamlit_app.py # 前端界面
-├── src/api.py # 后端服务
-├── README.md
+Agent-Project/
+├── src/
+│ ├── hybrid_wealth_advisor_langgraph.py # 核心工作流
+│ ├── streamlit_app.py # 前端界面
+│ └── api.py # 后端服务
+├── assets/
+│ └── workflow.png # 系统流程图
 ├── requirements.txt
-├── .gitignore
-└── assets/
-└── workflow.png # 系统流程图
+├── README.md
+└── .gitignore
 
 ## 二、运行方式
 
