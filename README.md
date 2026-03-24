@@ -59,6 +59,39 @@ Agent-Project/
 - 请帮我做一个10年的教育金投资计划
 - 如何在经济衰退中进行资产配置？
 
+### 示例客户画像
+
+
+SAMPLE_CUSTOMER_PROFILES = {
+    "customer1": {
+        "customer_id": "C10012345",
+        "risk_tolerance": "平衡型",
+        "investment_horizon": "中期",
+        "financial_goals": ["退休规划", "子女教育金"],
+        "investment_preferences": ["ESG投资", "科技行业"],
+        "portfolio_value": 1500000.0,
+        "current_allocations": {
+            "股票": 0.40,
+            "债券": 0.30,
+            "现金": 0.10,
+            "另类投资": 0.20
+        }
+    },
+    "customer2": {
+        "customer_id": "C10067890",
+        "risk_tolerance": "进取型",
+        "investment_horizon": "长期",
+        "financial_goals": ["财富增长", "资产配置多元化"],
+        "investment_preferences": ["新兴市场", "高成长行业"],
+        "portfolio_value": 3000000.0,
+        "current_allocations": {
+            "股票": 0.65,
+            "债券": 0.15,
+            "现金": 0.05,
+            "另类投资": 0.15
+        }
+    }
+}
 ---
 
 ## 七. 权衡与展望
