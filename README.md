@@ -60,8 +60,7 @@ Agent-Project/
 - 如何在经济衰退中进行资产配置？
 
 ### 示例客户画像
-
-
+```
 SAMPLE_CUSTOMER_PROFILES = { \
     "customer1": { \
         "customer_id": "C10012345",\
@@ -92,7 +91,7 @@ SAMPLE_CUSTOMER_PROFILES = { \
         }\
     }\
 }\
----
+```
 
 ## 七. 权衡与展望
 
